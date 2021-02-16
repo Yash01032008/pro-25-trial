@@ -1,1 +1,1 @@
-# pro-25-trial
+# CP-2
